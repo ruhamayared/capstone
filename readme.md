@@ -60,7 +60,7 @@
 
 #### Show Page
 
-<img src="https://i.imgur.com/MnyGGO7.jpg" width="600px">
+<img src="https://i.imgur.com/sGl5hGU.jpg" width="600px">
 
 ### Links to Project
 

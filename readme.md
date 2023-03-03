@@ -1,4 +1,4 @@
-#Healing Pages
+# Healing Pages
 
 ###### The name of the site emphasizes the healing power of journaling. The site allows users to create an account and start journaling. Every day, users are given a writing prompt that they can use to inspire their journal entries. Users can create, read, update, and delete journal entries, as well as view past entries by date. The app/site is built using the Go programming language and Echo web framework for the backend API, and React and TypeScript for the frontend.
 
@@ -24,7 +24,7 @@
 - AAU, I can CRUD a journal entry.
 - AAU, I can logout.
 
-#### Backend Setup
+### Backend Setup
 
 ##### Routes
 
@@ -32,7 +32,7 @@
 - Creating/reading/updating/deleting journal entries
 - Retrieving daily writing prompts
 
-#### Frontend Setup
+### Frontend Setup
 
 - Components
   - Pages
